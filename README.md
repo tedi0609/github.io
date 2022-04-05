@@ -1,2 +1,1 @@
-# tedi.github.io
-website protofolio ane
+# ted.github.io
